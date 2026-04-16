@@ -28,8 +28,7 @@
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="assets/showcase-1.jpg" width="46%" />
-  <img src="assets/showcase-2.jpg" width="46%" />
+  <img src="assets/showcase-1.jpg" width="70%" />
 </p>
 
 ## 📊 GitHub Stats
