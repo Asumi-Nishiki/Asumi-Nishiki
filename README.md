@@ -3,7 +3,7 @@
 # 🌸 Asumi Nishiki の Code Diary 🌸
 
 ✨ *Java / C++ / Python* ✨  
-🩷 *二次元能量拉满，代码也要可爱又可靠* 🩷
+🩷 *时光流转，愿你能与真爱之人，能够再度重逢* 🩷
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kawaii+but+Powerful+Coding!;Java+C%2B%2B+Python+Main;Keep+Shipping+Every+Day!&font=Fira+Code&size=24&color=FF69B4&center=true&width=700&height=55)
 
